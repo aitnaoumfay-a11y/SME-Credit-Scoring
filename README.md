@@ -74,6 +74,19 @@ Ratings: **A** (≥85) · **B** (70–84) · **C** (55–69) · **D** (40–54) 
 | `sme_scored.csv` | Dataset complet avec scores et ratings |
 | `summary_by_financing.csv` | Statistiques agrégées par mode de financement |
 
+## Figures
+
+### Financing mode distribution by sector
+![Financing distribution](fig1_financement.png)
+
+### Key financial ratios by financing mode
+![Ratio boxplots](fig2_ratios_boxplot.png)
+
+### Correlation matrix
+![Correlation heatmap](fig3_correlation.png)
+
+### Impact of qualitative factors
+![Qualitative factors](fig5_qualitative.png)
 ---
 
 ## Usage
