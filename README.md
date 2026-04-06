@@ -77,16 +77,16 @@ Ratings: **A** (≥85) · **B** (70–84) · **C** (55–69) · **D** (40–54) 
 ## Figures
 
 ### Financing mode distribution by sector
-![Financing distribution](fig1_financement.png)
+![Financing distribution](fig1_financement(1).png)
 
 ### Key financial ratios by financing mode
-![Ratio boxplots](fig2_ratios_boxplot.png)
+![Ratio boxplots](fig2_ratios_boxplot(1).png)
 
 ### Correlation matrix
-![Correlation heatmap](fig3_correlation.png)
+![Correlation heatmap](fig3_correlation(1).png)
 
 ### Impact of qualitative factors
-![Qualitative factors](fig5_qualitative.png)
+![Qualitative factors](fig5_qualitative(1).png)
 ---
 
 ## Usage
